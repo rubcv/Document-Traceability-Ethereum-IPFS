@@ -1,0 +1,32 @@
+{
+  "name": "document-traceability-using-ethereum-blockchain-and-ipfs-storage",
+  "version": "1.0.0",
+  "description": "Document traceability using Ethereum Blockchain and IPFS storage",
+  "main": "index.ts",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^15.6.0"
+  },
+  "scripts": {
+    "test": "npm test",
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubcv/Document-traceability-using-Ethereum-blockchain-and-IPFS-storage.git"
+  },
+  "keywords": [
+    "Ethereum",
+    "Blockchain",
+    "IPFS",
+    "Decentralized",
+    "File",
+    "System"
+  ],
+  "author": "Ruben",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/rubcv/Document-traceability-using-Ethereum-blockchain-and-IPFS-storage/issues"
+  },
+  "homepage": "https://github.com/rubcv/Document-traceability-using-Ethereum-blockchain-and-IPFS-storage#readme"
+}
