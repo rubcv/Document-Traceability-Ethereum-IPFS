@@ -8,8 +8,8 @@
     "@types/node": "^15.6.0"
   },
   "scripts": {
-    "test": "npm test",
-    "start": "npm start"
+    "test": "node test",
+    "start": "node api/index.ts"
   },
   "repository": {
     "type": "git",
